@@ -34,6 +34,7 @@ const Navbar = () => {
               className="group relative inline-block cursor-pointer hover:text-brightColor"
             >
               Menu
+              <span className="absolute inset-x-0 bottom-0 h-0.5 bg-black transform scale-x-0 origin-left transition-transform group-hover:scale-x-100"></span>
             </Link>
             <Link
               to="home"
@@ -43,6 +44,7 @@ const Navbar = () => {
               className="group relative inline-block cursor-pointer hover:text-brightColor"
             >
               About Us
+              <span className="absolute inset-x-0 bottom-0 h-0.5 bg-black transform scale-x-0 origin-left transition-transform group-hover:scale-x-100"></span>
             </Link>
             <Link
               to="home"
@@ -52,6 +54,7 @@ const Navbar = () => {
               className="group relative inline-block cursor-pointer hover:text-brightColor"
             >
               Products
+              <span className="absolute inset-x-0 bottom-0 h-0.5 bg-black transform scale-x-0 origin-left transition-transform group-hover:scale-x-100"></span>
             </Link>
             <Link
               to="home"
@@ -61,6 +64,7 @@ const Navbar = () => {
               className="group relative inline-block cursor-pointer hover:text-brightColor"
             >
               Reviews
+              <span className="absolute inset-x-0 bottom-0 h-0.5 bg-black transform scale-x-0 origin-left transition-transform group-hover:scale-x-100"></span>
             </Link>
           </nav>
         </div>
