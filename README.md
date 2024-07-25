@@ -2,8 +2,6 @@
 
 Build a responsive coffee website using React JS, Tailwind CSS, and Vite. This project showcases a modern web design approach, focusing on creating a visually appealing and user-friendly landing page for a coffee shop.
 
-![Project Overview](https://via.placeholder.com/600x300.png?text=Project+Overview+Image)
-
 ## Table of Contents
 
 - [📖 Introduction](#introduction)
@@ -15,8 +13,6 @@ Build a responsive coffee website using React JS, Tailwind CSS, and Vite. This p
 
 This project is a responsive coffee website built using React JS and Tailwind CSS. It includes sections such as a navbar, home, menu, about us, products, reviews, and a footer. The project is set up using Vite for optimal performance, but you can also use `create-react-app` as an alternative setup.
 
-![Introduction GIF](https://via.placeholder.com/600x300.png?text=Introduction+GIF)
-
 ## ✨ Features
 
 - ✅ **Responsive design** for mobile and desktop
@@ -25,16 +21,12 @@ This project is a responsive coffee website built using React JS and Tailwind CS
 - 📱 **Modern design** with Tailwind CSS
 - ⚡ **Fast performance** with Vite
 
-![Features GIF](https://via.placeholder.com/600x300.png?text=Features+GIF)
-
 ## 🛠️ Technologies Used
 
 - **React JS**: JavaScript library for building user interfaces
 - **Tailwind CSS**: Utility-first CSS framework for styling
 - **Vite**: Fast front-end build tool
 - **React Scroll**: Module for smooth scrolling
-
-![Technologies Image](https://via.placeholder.com/600x300.png?text=Technologies+Image)
 
 ## 🎓 Learning Objectives
 
@@ -46,4 +38,3 @@ Through this project, you will learn:
 - 🔄 Using the `react-scroll` module for **smooth scrolling effects**.
 - 📌 Creating a **fixed navigation bar** using React JS.
 
-![Learning Objectives GIF](https://via.placeholder.com/600x300.png?text=Learning+Objectives+GIF)
