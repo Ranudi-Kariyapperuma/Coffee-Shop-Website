@@ -2,7 +2,16 @@ import React from 'react'
 
 const Navbar = () => {
   return (
-    <div>Navbar</div>
+    <div>
+      <div>
+        <div>
+          <div>
+            <span>
+              <siCofbareescript/>            </span>
+          </div>
+        </div>
+      </div>
+    </div>
   )
 }
 
