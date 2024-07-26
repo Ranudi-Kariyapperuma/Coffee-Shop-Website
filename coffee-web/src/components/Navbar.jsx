@@ -68,6 +68,7 @@ const Navbar = () => {
             </Link>
           </nav>
         </div>
+        
         <Button title="Login" />
       </div>
     </div>
