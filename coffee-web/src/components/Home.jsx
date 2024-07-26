@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React from "react";
 import { Button } from "react-scroll";
 import img from "../assets/img/home.png";
@@ -22,3 +23,14 @@ const Home = () => {
     )        
 }
 export default Home;    
+=======
+import React from 'react'
+
+const Home = () => {
+  return (
+    <div>Home</div>
+  )
+}
+
+export default Home
+>>>>>>> 1ec39939aaaef259f5d9d99c418e64de4113397f
