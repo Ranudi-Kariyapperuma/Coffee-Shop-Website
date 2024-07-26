@@ -5,8 +5,13 @@ const App = () => {
   return (
     <div>
       <Navbar/>
-    </div>
-  )
-}
 
-export default App
+      <main>
+        <div id="home">
+          <Home />
+        </div>
+      </main>
+    </div>
+  );
+};
+export default App;
