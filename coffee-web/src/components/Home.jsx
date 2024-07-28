@@ -6,7 +6,7 @@ const Home = () => {
   return (
     <div>
         <div>
-            <h1>Start your day with a steaming cup of coffee</h1>
+            <h1>Start your day with a steaming cup of coffee </h1>
             <p>Boost your productivity and build your mood with a glass of coffee
                 in the morning.hii
             </p>
