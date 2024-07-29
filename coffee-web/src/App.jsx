@@ -1,6 +1,7 @@
 import React from "react";
 import Navbar from "./components/Navbar";
 import Home from "./components/Home";
+import Menu from "./components/Menu";
 
 const App = () => {
   return (
@@ -11,8 +12,8 @@ const App = () => {
         <div id="home">
           <Home />
         </div>
-        <div>
-          
+        <div id="menu">
+          <Menu />
         </div>
       </main>
     </div>
