@@ -12,7 +12,7 @@ const Home = () => {
             </p>
 
             <div>
-                <Button title="ADD TO CARD"/>
+                <Button title="ADD TO CARD "/>
                 <Button title="MORE MENU"/>
             </div>
         </div>
