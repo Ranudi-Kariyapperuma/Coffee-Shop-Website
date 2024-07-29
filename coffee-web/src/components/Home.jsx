@@ -1,4 +1,3 @@
-import React from 'react'
 import Button from '../layouts/Button'
 import img from '../assets/img/home.png'
 
