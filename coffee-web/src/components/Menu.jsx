@@ -1,3 +1,4 @@
+import React from "react";
 import MenuCard from "../layouts/MenuCard";
 import img1 from "../assets/img/menu1.jpg";
 import img2 from "../assets/img/menu2.jpg";
