@@ -10,7 +10,7 @@ const Home = () => {
                     in the morning.hii
                 </p>
 
-                <div className='flex flex-row gap-6'>
+                <div className='flex flex-row gap-6 '>
                     <Button title="ADD TO CARD " />
                     <Button title="MORE MENU" />
                 </div>
