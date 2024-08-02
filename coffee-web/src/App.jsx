@@ -31,15 +31,8 @@ const App = () => {
         </div>
 
 
-      </main>
-       
-      <div id="footer">
+      </main> 
           <Footer />
-        </div>
-
-
-
-
     </div>
   );
 };
