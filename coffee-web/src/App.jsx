@@ -5,6 +5,7 @@ import Menu from "./components/Menu";
 import About from "./components/About";
 import Product from "./components/Product";
 import Review from "./components/Review";
+import Footer from "./components/Footer";
 
 const App = () => {
   return (
@@ -31,6 +32,14 @@ const App = () => {
 
 
       </main>
+       
+      <div id="footer">
+          <Footer />
+        </div>
+
+
+
+
     </div>
   );
 };
