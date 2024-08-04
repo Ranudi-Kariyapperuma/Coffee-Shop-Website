@@ -1,4 +1,4 @@
-# ☕ Coffee Website
+# ☕ Coffee Shop Website
 
 Build a responsive coffee website using React JS, Tailwind CSS, and Vite. This project showcases a modern web design approach, focusing on creating a visually appealing and user-friendly landing page for a coffee shop.
 
